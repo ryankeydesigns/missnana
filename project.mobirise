@@ -31,7 +31,9 @@
       },
       "additionalSetColors": [
         "#1964ec",
-        "#212529"
+        "#212529",
+        "#20c907",
+        "#1f900e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -43,19 +45,19 @@
       "size": "65px",
       "backgroundColor": "#e5ddd5",
       "position": "left",
-      "popupMessage": "Hi!👋\n\n在此处输入消息。我们的团休会尽快回复您 🔥\n谢谢!\n\nMISS NANA WORLD ONLINE Team",
+      "popupMessage": "Hi!👋\n\n\n\n在此处输入消息。我们的团休会尽快回复您 🔥\n谢谢!\n\nMISS NANA WORLD ONLINE Team",
       "showPopup": true,
       "showOnIE": true,
       "autoOpenTimeout": "5",
       "headerColor": "#39847a",
-      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "headerTitle": "👋 下单/询问 WhatsApp!",
       "placeholder": "Type here",
       "zIndex": 10,
       "enabled": true
     },
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "42udkmg1hs",
+    "mbrsiteDomain": "lw5fpnnzav",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
@@ -66,7 +68,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "5.3.0"
   },
   "pages": {
