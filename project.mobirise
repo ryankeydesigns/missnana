@@ -40,7 +40,7 @@
     "versionFirst": "5.3.0",
     "siteFonts": [],
     "chatbutton": {
-      "phone": "+0176611288",
+      "phone": "+60176611288",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
@@ -57,7 +57,7 @@
     },
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "lw5fpnnzav",
+    "mbrsiteDomain": "ri07bsowbn",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
